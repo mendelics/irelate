@@ -6,8 +6,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/brentp/bix"
-	"github.com/brentp/irelate/interfaces"
+	"github.com/mendelics/bix"
+	"github.com/mendelics/irelate/interfaces"
 )
 
 const MaxUint32 = ^uint32(0)

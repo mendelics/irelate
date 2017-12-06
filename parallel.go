@@ -37,7 +37,7 @@ import (
 	"runtime"
 	"sort"
 
-	"github.com/brentp/irelate/interfaces"
+	"github.com/mendelics/irelate/interfaces"
 )
 
 func getStart(v interfaces.Relatable, s int) int {

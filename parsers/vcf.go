@@ -3,8 +3,8 @@ package parsers
 import (
 	"io"
 
-	"github.com/brentp/irelate/interfaces"
-	"github.com/brentp/vcfgo"
+	"github.com/mendelics/irelate/interfaces"
+	"github.com/mendelics/vcfgo"
 )
 
 type Variant struct {

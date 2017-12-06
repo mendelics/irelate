@@ -9,9 +9,9 @@ import (
 	"runtime/pprof"
 	"syscall"
 
-	"github.com/brentp/bix"
-	"github.com/brentp/irelate"
-	I "github.com/brentp/irelate/interfaces"
+	"github.com/mendelics/bix"
+	"github.com/mendelics/irelate"
+	I "github.com/mendelics/irelate/interfaces"
 )
 
 func init() {

@@ -8,7 +8,7 @@ import (
 	"log"
 	"os"
 
-	. "github.com/brentp/irelate/interfaces"
+	. "github.com/mendelics/irelate/interfaces"
 )
 
 // Set relativeTo so SelfRelations constant to allow reporting overlaps within a stream

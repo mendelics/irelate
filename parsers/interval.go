@@ -6,7 +6,7 @@ import (
 	"strings"
 	"unsafe"
 
-	"github.com/brentp/irelate/interfaces"
+	"github.com/mendelics/irelate/interfaces"
 )
 
 const empty = ""

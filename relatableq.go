@@ -1,6 +1,6 @@
 package irelate
 
-import "github.com/brentp/irelate/interfaces"
+import "github.com/mendelics/irelate/interfaces"
 
 // relatableQueue implements the heap interface and is used to send Relatables
 // back the the caller in order (as deteremined by Less()).

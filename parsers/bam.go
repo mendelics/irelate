@@ -12,7 +12,7 @@ import (
 	"github.com/biogo/hts/bam"
 	"github.com/biogo/hts/bgzf/index"
 	"github.com/biogo/hts/sam"
-	"github.com/brentp/irelate/interfaces"
+	"github.com/mendelics/irelate/interfaces"
 )
 
 type Bam struct {

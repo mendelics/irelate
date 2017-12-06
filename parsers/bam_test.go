@@ -3,7 +3,7 @@ package parsers_test
 import (
 	"testing"
 
-	"github.com/brentp/irelate/parsers"
+	"github.com/mendelics/irelate/parsers"
 
 	. "gopkg.in/check.v1"
 )
